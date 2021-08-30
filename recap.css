@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.healthy-food {
+  display: flex;
+}
+.half {
+  width: 50%;
+  padding-left: 50px;
+  margin: auto;
+}
+.half img {
+  background-image: url(images/shapes/Group\ 8447.png);
+}
+.orange {
+  color: orange;
+}
